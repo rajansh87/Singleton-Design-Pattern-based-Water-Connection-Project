@@ -35,7 +35,7 @@
 #### Then follow following steps:
 > 1. Open command prompt.
 >2. Go to the loaction where you have stores the project using command
->>cd location          (  location of the Java Project folder )
+  >>cd location          (  location of the Java Project folder )
 >3. Compile both Tank.java and TankTest.java file.
 >4. Run TankTest.java file.
 
